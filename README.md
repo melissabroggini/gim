@@ -30,7 +30,7 @@ Commento sul PDF da leggere...
 [Esecrizio parallissi interattiva](https://melissabroggini.github.io/gim/Esecizio_2_parallassi/index_interattivo.html)
 
 ## Essercizio 3A
-[Esecrizio 3A pong](https://melissabroggini.github.io/gim/)
+[Esecrizio 3A pong](https://melissabroggini.github.io/gim/Esercizio_3A_pong/index.html)
 
 [Esecrizio 3A pioggia](https://melissabroggini.github.io/gim/Esercizio_3A_pioggia/index.html)
 
