@@ -34,7 +34,7 @@ Commento sul PDF da leggere...
 
 [Esecrizio 3A pioggia](https://melissabroggini.github.io/gim/)
 
-[Esecrizio 3A neve](https://melissabroggini.github.io/gim/)
+[Esecrizio 3A neve](https://melissabroggini.github.io/gim/Esercizio_3A_neve/index.html)
 
 ## Essercizio 3B
 [Esecrizio 3B orologio](https://melissabroggini.github.io/gim/)
