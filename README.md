@@ -32,7 +32,7 @@ Commento sul PDF da leggere...
 ## Essercizio 3A
 [Esecrizio 3A pong](https://melissabroggini.github.io/gim/)
 
-[Esecrizio 3A pioggia](https://melissabroggini.github.io/gim/)
+[Esecrizio 3A pioggia](https://melissabroggini.github.io/gim/Esercizio_3A_pioggia/index.html)
 
 [Esecrizio 3A neve](https://melissabroggini.github.io/gim/Esercizio_3A_neve/index.html)
 
