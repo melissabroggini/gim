@@ -25,16 +25,16 @@ Corso di grafica in movimento 2025 SUPSI
 Commento sul PDF da leggere...
 
 ## Essercizio 2
-[Esecrizio parallissi animata:](https://melissabroggini.github.io/gim/Esecizio_2_parallassi/index_animato.html)
+[Esecrizio parallissi animata](https://melissabroggini.github.io/gim/Esecizio_2_parallassi/index_animato.html)
 
-[Esecrizio parallissi interattiva:](https://melissabroggini.github.io/gim/)
+[Esecrizio parallissi interattiva](https://melissabroggini.github.io/gim/Esecizio_2_parallassi/index_interattivo.html)
 
 ## Essercizio 3A
-[Esecrizio 3A pong:](https://melissabroggini.github.io/gim/)
+[Esecrizio 3A pong](https://melissabroggini.github.io/gim/)
 
-[Esecrizio 3A pioggia:](https://melissabroggini.github.io/gim/)
+[Esecrizio 3A pioggia](https://melissabroggini.github.io/gim/)
 
-[Esecrizio 3A neve:](https://melissabroggini.github.io/gim/)
+[Esecrizio 3A neve](https://melissabroggini.github.io/gim/)
 
 ## Essercizio 3B
-[Esecrizio 3B orologio:](https://melissabroggini.github.io/gim/)
+[Esecrizio 3B orologio](https://melissabroggini.github.io/gim/)
