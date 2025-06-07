@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Nome Cognome" />
+	<title>Rotazione 3 - Ping Pong</title>
+	<style type="text/css">
+		html{
+			height:100%;
+		}
+		body{
+			background-color: rgb(235,235,235);
+			margin: 3em 2em;
+		}
+	</style>
+
+</head>
+<body>
+
+	<img />
+
+	<script type="module">
+
+		const sequenza = [
+			"img/aperto_chiuso_tre_1.jpg",
+			"img/aperto_chiuso_tre_2.jpg",
+			"img/aperto_chiuso_tre_3.jpg",
+		];
+			
+		let frame = 0;
+		let direction = 1; // 1 per avanti, -1 per indietro
+
+		setInterval(() => {
+			const img = document.querySelector("img");
+			img.src = sequenza[frame];
+			
+			// Aggiunge la direzione corrente al frame
+			frame += direction;
+			
+			// Se il frame raggiunge l'inizio o la fine, inverte la direzione
+			if (frame <= 0 || frame >= sequenza.length - 1) {
+				direction *= -1;
+			}
+		}, 400);
+
+	</script>
+</body>
+</html>
