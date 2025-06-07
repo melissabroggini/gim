@@ -37,5 +37,6 @@ Commento sul PDF da leggere...
 [Esecrizio 3A neve](https://melissabroggini.github.io/gim/Esercizio_3A_neve/index.html)
 
 ## Essercizio 3B
-L'animazione completa dura un minuto.
+L'animazione completa dura un minuto, perfavore aspettare.
+
 [Esecrizio 3B orologio](https://melissabroggini.github.io/gim/Esercizio_3B_orologio/index.html)
