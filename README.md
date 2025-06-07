@@ -10,9 +10,9 @@ Corso di grafica in movimento 2025 SUPSI
 
 [Esecrizio 1A: aperto/chiuso 3](https://melissabroggini.github.io/gim/Esercizio_1A/aperto_chiuso_3.html)
 
-[Esecrizio 1A: rotazione 2](https://melissabroggini.github.io/gim/)
+[Esecrizio 1A: rotazione 2](https://melissabroggini.github.io/gim/Esercizio_1A/rotazione_2.html)
 
-[Esecrizio 1A: rotazione 3](https://melissabroggini.github.io/gim/)
+[Esecrizio 1A: rotazione 3](https://melissabroggini.github.io/gim/Esercizio_1A/rotazione_3.html)
 
 [Esecrizio 1A: spostamento 2](https://melissabroggini.github.io/gim/Esercizio_1A/movimento_2.html)
 
