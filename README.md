@@ -25,7 +25,7 @@ Corso di grafica in movimento 2025 SUPSI
 Commento sul PDF da leggere...
 
 ## Essercizio 2
-[Esecrizio parallissi animata:](https://melissabroggini.github.io/gim/)
+[Esecrizio parallissi animata:](https://melissabroggini.github.io/gim/Esecizio_2_parallassi/index_animato.html)
 
 [Esecrizio parallissi interattiva:](https://melissabroggini.github.io/gim/)
 
