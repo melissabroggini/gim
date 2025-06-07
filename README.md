@@ -20,6 +20,7 @@ Corso di grafica in movimento 2025 SUPSI
 
 ## Essercizio 1B
 [Esecrizio 1B: logo animato]([https://melissabroggini.github.io/gim)
+
 ## Essercizio 1C
 Commento sul PDF da leggere...
 
