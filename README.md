@@ -26,11 +26,14 @@ Commento sul PDF da leggere...
 
 ## Essercizio 2
 [Esecrizio parallissi animata:](https://melissabroggini.github.io/gim/)
+
 [Esecrizio parallissi interattiva:](https://melissabroggini.github.io/gim/)
 
 ## Essercizio 3A
 [Esecrizio 3A pong:](https://melissabroggini.github.io/gim/)
+
 [Esecrizio 3A pioggia:](https://melissabroggini.github.io/gim/)
+
 [Esecrizio 3A neve:](https://melissabroggini.github.io/gim/)
 
 ## Essercizio 3B
