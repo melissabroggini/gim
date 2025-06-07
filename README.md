@@ -2,7 +2,7 @@
 Corso di grafica in movimento 2025 SUPSI
 
 ## Essercizio 1A
-[Esecrizio 1A: acceso/spento 2](https://melissabroggini.github.io/gim/Esecizio 1/Esercizio 1A/acceso_spento_2.html)
+[Esecrizio 1A: acceso/spento 2]([https://melissabroggini.github.io/gim/Esecizio 1/Esercizio 1A/acceso_spento_2.html](https://github.com/melissabroggini/gim/blob/22bb39c6873bb002137ba5ab034fcb86563e2dc0/Esecizio%201/Esercizio%201A/acceso_spento_2.html))
 
 [Esecrizio 1A: acceso/spento 3](https://melissabroggini.github.io/gim/)
 
