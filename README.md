@@ -22,7 +22,11 @@ Corso di grafica in movimento 2025 SUPSI
 [Esecrizio 1B: logo animato](https://melissabroggini.github.io/gim/Esercizio_1B/index.html)
 
 ## Essercizio 1C
-Commento sul PDF da leggere...
+Sul Teatro di Marionette" di Kleist offre una riflessione radicale sulla condizione umana, sostenendo che una marionetta meccanica possa incarnare una grazia irraggiungibile per l'uomo. Il testo esplora il paradosso per cui la coscienza, anziché un dono, è una ferita che corrompe la naturalezza del movimento.
+È l'autoconsapevolezza a generare la "smanceria", una disarmonia che nasce quando l'anima non coincide con il centro di gravità del corpo. La marionetta, al contrario, è perfetta perché i suoi movimenti seguono unicamente la pura legge meccanica, come un pendolo.
+L'aneddoto del giovane che perde la sua grazia dopo essersi visto in uno specchio illustra questa cacciata dal "paradiso" della spontaneità. Allo stesso modo, l'orso schermidore risulta invincibile proprio perché agisce senza pensare, con una perfezione istintiva e impenetrabile.
+Kleist conclude che la grazia pura esiste solo agli estremi opposti della consapevolezza: nell'assenza totale di coscienza, come nella marionetta, o nella coscienza infinita, come in un Dio. L'essere umano è così intrappolato in uno stato intermedio e imperfetto.
+La speranza di ritrovare l'innocenza perduta, suggerisce l'autore, non sta nel regredire, ma nell'attraversare l'infinito della conoscenza. Questo percorso rappresenta "l'ultimo capitolo della storia del mondo", il solo modo per riconquistare, forse, uno stato di grazia superiore.
 
 ## Essercizio 2
 [Esecrizio parallissi animata](https://melissabroggini.github.io/gim/Esecizio_2_parallassi/index_animato.html)
