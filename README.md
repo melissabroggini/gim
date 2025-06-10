@@ -28,6 +28,8 @@ L'aneddoto del giovane che perde la sua grazia dopo essersi visto in uno specchi
 Kleist conclude che la grazia pura esiste solo agli estremi opposti della consapevolezza: nell'assenza totale di coscienza, come nella marionetta, o nella coscienza infinita, come in un Dio. L'essere umano è così intrappolato in uno stato intermedio e imperfetto.
 La speranza di ritrovare l'innocenza perduta, suggerisce l'autore, non sta nel regredire, ma nell'attraversare l'infinito della conoscenza. Questo percorso rappresenta "l'ultimo capitolo della storia del mondo", il solo modo per riconquistare, forse, uno stato di grazia superiore.
 
+(Sintassi rifatta da Gemini 2.5 pro)
+
 ## Essercizio 2
 [Esecrizio parallissi animata](https://melissabroggini.github.io/gim/Esecizio_2_parallassi/index_animato.html)
 
